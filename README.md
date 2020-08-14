@@ -1,6 +1,6 @@
 # Zooplankton-microbiome
 Datafiles and scripts related to "Freshwater zooplankton microbiota composition is highly flexible and strongly influenced by the environment"
- The sequencing data can be found at: Sequences from cultures/experiments are deposited at NCBI SRA with accession number PRJNA655592 and sequences from the environmental samples with accession number PRJNA655595. 
+ The sequencing data can be found at: Sequences from cultures/experiments are deposited at NCBI SRA with accession number PRJNA655592 and sequences from the environmental samples with accession number PRJNA655595, accession numbers to other datasets used can be found in Supplementary table 2. 
 
 
 Here the material and methods related to the submitted files.
