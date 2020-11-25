@@ -1,0 +1,4 @@
+#NEXUS
+begin trees;
+	tree TREE1 = [&R] (((Diaphanosoma_brachyurum_A995C:1.231334,((Simocephalus_vetulus_A992SP:0.152777,Simocephalus_sp_A994S:0.152777):0.23817,(Daphnia_obtusa:0.299703,(Daphnia_galeata_DLM:0.165744,Daphnia_magna:0.165744):0.133958):0.091245):0.840387):2.975808,((Mesocyclops_leuckarti_A995CO:0.781013,cyclopid_A984C:0.781013):1.178677,((calanoid_nauplii_A986C:0.258845,Eudiaptomus_padanus_CLM:0.258845):0.598499,calanoid_large_A993C:0.857344):1.102346):2.247452):1.05599,(((Adineta_vaga_culture:0.213265,Rotaria_rotatoria_A994RR:0.213265):0.045412,Rotaria_macrura_A970RM:0.258677):4.756987,((Polyarthra_dolichoptera_A989P:0.423403,(Euchlanis_dilatata_A991E:0.354408,(Keratella_serrulata_A990K:0.163098,Keratella_quadrata_A985K:0.163098):0.19131):0.068996):0.04611,((Lecane_elsa_A984LE:0.227847,Lecane_inermis_culture:0.227847):0.181058,(Brachionus_quadridentatus_A988BQ:0.334586,Epiphanes_senta_A962ES:0.334586):0.074318):0.060609):4.546151):0.247468);
+end;

@@ -1,0 +1,67 @@
+Name,Fasta_Nr,Name,Short,species,place,Time,Food,Original_Food,Temp,part,GENOT,Exp_temp,Exp_time,Exp_food,Experiment,aniwat,,,,,,
+X66,66,AVH_1,AVH_1_X66,Adineta vaga,AV,1,honey,honey,20,whole,rot,N,N,Y,food,rotifer,,,,,,
+X12,12,AVH_2,AVH_2_X12,Adineta vaga,AV,1,honey,honey,18,whole,rot,N,N,Y,food,rotifer,,,,,,
+X60,60,AVK_1,AVK_1_X60,Adineta vaga,AV,1,Algae,Algae,20,whole,rot,N,N,Y,food,rotifer,,,,,,
+X61,61,AVK_2,AVK_2_X61,Adineta vaga,AV,1,Algae,Algae,20,whole,rot,N,N,Y,food,rotifer,,,,,,
+X63,63,AVS_1,AVS_1_X63,Adineta vaga,AV,1,Salad,Salad,20,whole,rot,N,N,Y,food,rotifer,,,,,,
+X64,64,AVS_2,AVS_2_X64,Adineta vaga,AV,1,Salad,Salad,20,whole,rot,N,N,Y,food,rotifer,,,,,,
+ERS2473696,ERS2473696,ERS2473696,ERS2473696,Daphnia magna,ebert,0,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473697,ERS2473697,ERS2473697,ERS2473697,Daphnia magna,ebert,0,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473698,ERS2473698,ERS2473698,ERS2473698,Daphnia magna,ebert,0,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473704,ERS2473704,ERS2473704,ERS2473704,Daphnia magna,ebert,3,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473705,ERS2473705,ERS2473705,ERS2473705,Daphnia magna,ebert,3,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473706,ERS2473706,ERS2473706,ERS2473706,Daphnia magna,ebert,3,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473722,ERS2473722,ERS2473722,ERS2473722,Daphnia magna,ebert,9,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473723,ERS2473723,ERS2473723,ERS2473723,Daphnia magna,ebert,9,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+ERS2473724,ERS2473724,ERS2473724,ERS2473724,Daphnia magna,ebert,9,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,EB,N,Y,N,Time,daphnia,,,,,,
+X22,22,LIH_18A,LIH_18A_X22,animal,LI,75,honey,Algae,18,whole,rot,Y,N,Y,Temp,rotifer,mono,cult,19,R1.fastq,LIH_18A_19,Lecane inermis_X22
+X23,23,LIH_18B,LIH_18B_X23,animal,LI,75,honey,Algae,18,whole,rot,Y,N,Y,Temp,rotifer,mono,cult,21,R1.fastq,LIH_18B_21,Lecane inermis_X23
+X27,27,LIH_24A,LIH_24A_X27,animal,LI,75,honey,honey,24,whole,rot,Y,N,Y,Temp,rotifer,mono,cult,29,R1.fastq,LIH_24A_29,Lecane inermis_X27
+X29,29,LIH_24B,LIH_24B_X29,animal,LI,75,honey,honey,24,whole,rot,Y,N,Y,Time,rotifer,mono,cult,33,R1.fastq,LIH_24B_33,Lecane inermis_X29
+X51,51,LIH_B1,LIH_B1_X51,animal,LI,30,honey,honey,,whole,rot,N,Y,Y,Time,rotifer,mono,cult,85,R1.fastq,LIH_B1_85,Lecane inermis_X51
+X52,52,LIH_B2,LIH_B2_X52,animal,LI,30,honey,honey,,whole,rot,N,Y,Y,Time,rotifer,mono,cult,87,R1.fastq,LIH_B2_87,Lecane inermis_X52
+X17,17,LIH_C1,LIH_C1_X17,animal,LI,75,honey,honey,18,whole,rot,Y,Y,Y,Time,rotifer,,cult,129,R1.fastq,LIH_C1_129,water_X17
+X18,18,LIH_C2,LIH_C2_X18,animal,LI,75,honey,honey,18,whole,rot,Y,Y,Y,Time,rotifer,mono,cult,131,R1.fastq,LIH_C2_131,Lecane inermis_X18
+X10,10,LIH1,LIH1_X10,animal,LI,1,honey,honey,18,whole,rot,N,Y,Y,Lecane inermisL001,rotifer,mono,cult,75,R1.fastq,LIH1_75,Lecane inermis_X10
+X48,48,LIH2,LIH2_X48,animal,LI,1,honey,honey,,whole,rot,N,Y,Y,Lecane inermisL001,rotifer,mono,cult,79,R1.fastq,LIH2_79,Lecane inermis_X48
+X36,36,LIK_18A,LIK_18A_X36,animal,LI,75,Algae,honey,18,whole,rot,Y,N,Y,Lecane inermisL001,rotifer,mono,cult,53,R1.fastq,LIK_18A_53,Lecane inermis_X36
+X37,37,LIK_18B,LIK_18B_X37,animal,LI,75,Algae,honey,18,whole,rot,Y,N,Y,Lecane inermisL001,rotifer,mono,cult,55,R1.fastq,LIK_18B_55,Lecane inermis_X37
+X43,43,LIK_24A,LIK_24A_X43,animal,LI,75,Algae,Algae,24,whole,rot,Y,N,Y,Lecane inermisL001,rotifer,mono,cult,67,R1.fastq,LIK_24A_67,Lecane inermis_X43
+X44,44,LIK_24B,LIK_24B_X44,animal,LI,75,Algae,Algae,24,whole,rot,Y,N,Y,Lecane inermisL001,rotifer,mono,cult,69,R1.fastq,LIK_24B_69,Lecane inermis_X44
+X34,34,LIK_C1,LIK_C1_X34,animal,LI,75,Algae,Algae,18,whole,rot,Y,Y,Y,Lecane inermisL001,rotifer,mono,cult,43,R1.fastq,LIK_C1_43,Lecane inermis_X34
+X7,7,LIK_C2,LIK_C2_X7,animal,LI,75,Algae,Algae,18,whole,rot,Y,Y,Y,Lecane inermisL001,rotifer,mono,cult,45,R1.fastq,LIK_C2_45,Lecane inermis_X7
+X54,54,LIK1,LIK1_X54,animal,LI,1,Algae,Algae,,whole,rot,N,N,Y,Lecane inermisL001,rotifer,mono,cult,91,R1.fastq,LIK1_91,Lecane inermis_X54
+X55,55,LIK2,LIK2_X55,animal,LI,1,Algae,Algae,,whole,rot,N,N,Y,Lecane inermisL001,rotifer,mono,cult,93,R1.fastq,LIK2_93,Lecane inermis_X55
+postFAC2a,postFAC2a,postFAC2a,postFAC2a,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,16,whole,A,Y,N,N,Temp,daphnia,,,,,,
+postFAC2b,postFAC2b,postFAC2b,postFAC2b,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,18,whole,A,Y,N,N,Temp,daphnia,,,,,,
+postFAC2c,postFAC2c,postFAC2c,postFAC2c,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,A,Y,N,N,Temp,daphnia,,,,,,
+postFBC1a,postFBC1a,postFBC1a,postFBC1a,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,16,whole,B,Y,N,N,Temp,daphnia,,,,,,
+postFBC1b,postFBC1b,postFBC1b,postFBC1b,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,18,whole,B,Y,N,N,Temp,daphnia,,,,,,
+postFBC1c,postFBC1c,postFBC1c,postFBC1c,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,B,Y,N,N,Temp,daphnia,,,,,,
+postFCC1a,postFCC1a,postFCC1a,postFCC1a,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,16,whole,C,Y,N,N,Temp,daphnia,,,,,,
+postFCC1b,postFCC1b,postFCC1b,postFCC1b,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,18,whole,C,Y,N,N,Temp,daphnia,,,,,,
+postFCC1c,postFCC1c,postFCC1c,postFCC1c,Daphnia magna,finn,1,Scenedesmus obliquus,Scenedesmus obliquus,20,whole,C,Y,N,N,Temp,daphnia,,,,,,
+SRS2578392,SRS2578392,SRS2578392,SRS2578392,Daphnia magna,decaee,7,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+SRS2578393,SRS2578393,SRS2578393,SRS2578393,Daphnia magna,decaee,7,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+SRS2578394,SRS2578394,SRS2578394,SRS2578394,Daphnia magna,decaee,23,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+SRS2578396,SRS2578396,SRS2578396,SRS2578396,Daphnia magna,decaee,7,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+SRS2578398,SRS2578398,SRS2578398,SRS2578398,Daphnia magna,decaee,23,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+SRS2578399,SRS2578399,SRS2578399,SRS2578399,Daphnia magna,decaee,23,Chlorella,Chlorella,21,gut,JAP,N,Y,N,Time,daphnia,,,,,,
+X13,13,W_AVH,W_AVH_X13,water,AV,1,honey,honey,18,whole,rot,N,N,Y,food,water,,,,,,
+X62,62,W_AVK,W_AVK_X62,water,AV,1,Algae,Algae,18,whole,rot,N,N,Y,food,water,,,,,,
+X65,65,W_AVS,W_AVS_X65,water,AV,1,Salad,Salad,18,whole,rot,N,N,Y,food,water,,,,,,
+X24,24,W_LIH_18A,W_LIH_18A_X24,water,LI,75,honey,Algae,18,water,rot,Y,N,Y,waterL001,water,,cult,23,R1.fastq,W_LIH_18A_23,water_X24
+X26,26,W_LIH_18B,W_LIH_18B_X26,water,LI,75,honey,Algae,18,water,rot,Y,N,Y,waterL001,water,,cult,27,R1.fastq,W_LIH_18B_27,water_X26
+X30,30,W_LIH_24A,W_LIH_24A_X30,water,LI,75,honey,honey,24,water,rot,Y,N,Y,waterL001,water,,cult,35,R1.fastq,W_LIH_24A_35,water_X30
+X31,31,W_LIH_24B,W_LIH_24B_X31,water,LI,75,honey,honey,24,water,rot,Y,N,Y,waterL001,water,,cult,37,R1.fastq,W_LIH_24B_37,water_X31
+X53,53,W_LIH_B,W_LIH_B_X53,water,LI,30,honey,honey,18,water,rot,N,N,Y,waterL001,water,,cult,89,R1.fastq,W_LIH_B_89,water_X53
+X6,6,W_LIH_C1,W_LIH_C1_X6,water,LI,75,honey,honey,18,water,rot,Y,Y,Y,waterL001,water,,cult,11,R1.fastq,W_LIH_C1_11,water_X6
+X20,20,W_LIH_C2,W_LIH_C2_X20,water,LI,75,honey,honey,18,water,rot,Y,Y,Y,waterL001,water,,cult,15,R1.fastq,W_LIH_C2_15,water_X20
+X50,50,W_LIH,W_LIH_X50,water,LI,1,honey,honey,18,water,rot,N,Y,Y,waterL001,water,,cult,83,R1.fastq,W_LIH_83,water_X50
+X39,39,W_LIK_18A,W_LIK_18A_X39,water,LI,75,Algae,honey,18,water,rot,Y,N,Y,waterL001,water,,cult,59,R1.fastq,W_LIK_18A_59,water_X39
+X42,42,W_LIK_18B,W_LIK_18B_X42,water,LI,75,Algae,honey,18,water,rot,Y,N,Y,waterL001,water,,cult,65,R1.fastq,W_LIK_18B_65,water_X42
+X45,45,W_LIK_24A,W_LIK_24A_X45,water,LI,75,Algae,Algae,24,water,rot,Y,N,Y,waterL001,water,,cult,71,R1.fastq,W_LIK_24A_71,water_X45
+X46,46,W_LIK_24B,W_LIK_24B_X46,water,LI,75,Algae,Algae,24,water,rot,Y,N,Y,waterL001,water,,cult,73,R1.fastq,W_LIK_24B_73,water_X46
+X8,8,W_LIK_C1,W_LIK_C1_X8,water,LI,75,Algae,Algae,18,water,rot,Y,Y,Y,waterL001,water,,cult,47,R1.fastq,W_LIK_C1_47,water_X8
+X35,35,W_LIK_C2,W_LIK_C2_X35,water,LI,75,Algae,Algae,18,water,rot,Y,Y,Y,waterL001,water,,cult,51,R1.fastq,W_LIK_C2_51,water_X35
+X56,56,W_LIK,W_LIK_X56,water,LI,1,Algae,Algae,18,water,rot,N,Y,Y,waterL001,water,,cult,95,R1.fastq,W_LIK_95,water_X56

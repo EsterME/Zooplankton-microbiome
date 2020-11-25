@@ -1,0 +1,96 @@
+X,Number,species,shape,spec_place,substrate,dataset,sppl,rot_crus,env_cult,uni
+X1,1,Polyarthra,mono,PolyarthraA989,animal,rot,PolyarthraA989,rotifer,env,Polyarthra_X1
+X10,2,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X10
+X101,4,SimoV,clad,SimocephalusA992,animal,extra,SimocephalusA992,crustacean,env,Simocephalus_X101
+X103,6,Diaphanosoma brachyurum,clad,Diapha,animal,extra,large calanoid copepodA995,crustacean,env,large calanoid copepod_X103
+X104,7,Diaphanosoma brachyurum,clad,Diapha,animal,extra,large calanoid copepodA995,crustacean,env,large calanoid copepod_X104
+X107,10,Polyarthra,mono,PolyarthraA989,animal,rot,PolyarthraA989,rotifer,env,Polyarthra_X107
+X109,12,large calanoid copepod,cop,large calanoid copepodA993,animal,extra,large calanoid copepodA993,crustacean,env,large calanoid copepod_X109
+X11,13,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X11
+X110,14,large calanoid copepod,cop,large calanoid copepodA993,animal,extra,large calanoid copepodA993,crustacean,env,large calanoid copepod_X110
+X111,15,Mesocyclops_leuckarti,cop,CopepodA995,animal,extra,CopepodA995,crustacean,env,Copepod_X111
+X112,16,Mesocyclops_leuckarti,cop,CopepodA995,animal,extra,CopepodA995,crustacean,env,Copepod_X112
+X123,19,Epiphanes senta,mono,Epiphanes sentaA962,animal,rot,Epiphanes sentaA962,rotifer,env,Epiphanes senta_X114
+X124,20,Epiphanes senta,mono,Epiphanes sentaA962,animal,rot,Epiphanes sentaA962,rotifer,env,Epiphanes senta_X115
+X125,21,Epiphanes senta,mono,Epiphanes sentaA962,animal,rot,Epiphanes sentaA962,rotifer,env,Epiphanes senta_X116
+X127,23,Rotaria macrura,bdell,Rotaria macruraSt14,animal,rot,Rotaria macruraSt14,rotifer,env,Rotaria macrura_X118
+X128,24,Rotaria macrura,bdell,Rotaria macruraSt14,animal,rot,Rotaria macruraSt14,rotifer,env,Rotaria macrura_X119
+X129,25,Rotaria macrura,bdell,Rotaria macruraSt14,animal,rot,Rotaria macruraSt14,rotifer,env,Rotaria macrura_X120
+X22,37,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X27
+X23,38,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X28
+X27,41,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X29
+X28,42,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X34
+X29,43,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X35
+X39,51,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X43
+X4,52,Rotaria macrura,bdell,Rotaria macruraRM,animal,rot,Rotaria macruraRM,rotifer,cult,Rotaria macrura_X4
+X41,53,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X44
+X43,55,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X46
+X44,56,Lecane inermis,mono,Lecane inermisLIH,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X47
+X46,58,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X49
+X47,59,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X50
+X49,61,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X51
+X5,62,Rotaria macrura,bdell,Rotaria macruraRM,animal,rot,Rotaria macruraRM,rotifer,cult,Rotaria macrura_X5
+X50,63,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X65
+X51,64,Lecane inermis,mono,Lecane inermisLIK,animal,rot,Lecane inermisL001,rotifer,cult,Lecane inermis_X66
+X53,66,Adineta vaga,bdell,Adineta vagaAVK,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X53
+X54,67,Adineta vaga,bdell,Adineta vagaAVK,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X54
+X56,69,Adineta vaga,bdell,Adineta vagaAVS,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X56
+X57,70,Adineta vaga,bdell,Adineta vagaAVS,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X57
+X59,72,Adineta vaga,bdell,Adineta vagaAVH,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X59
+X60,74,Adineta vaga,bdell,Adineta vagaAVH,animal,rot,Adineta vagaL001,rotifer,cult,Adineta vaga_X60
+X65,79,Lecane inermis,mono,Lecane inermisLIH,animal,rot,waterL001,water,cult,water_X65
+X66,80,Lecane inermis,mono,Lecane inermisLIH,animal,rot,waterL001,water,cult,water_X66
+X71,86,Keratella quadrata,mono,Keratella quadrataA985,animal,rot,Keratella quadrataA985,rotifer,env,Keratella quadrata_X71
+X72,87,Keratella,mono,KeratellaA990,animal,rot,KeratellaA990,rotifer,env,Keratella_X72
+X74,89,large calanoid copepod,cop,large calanoid copepodA993,animal,extra,large calanoid copepodA993,crustacean,env,large calanoid copepod_X74
+X77,92,Keratella quadrata,mono,Keratella quadrataA985,animal,rot,Keratella quadrataA985,rotifer,env,Keratella quadrata_X77
+X78,93,Keratella,mono,KeratellaA990,animal,rot,KeratellaA990,rotifer,env,Keratella_X78
+X79,94,Simo,clad,Simocephalus A994,animal,extra,Simocephalus A994,crustacean,env,Simocephalus _X79
+X81,97,Copepod,cop,CopepodA984,animal,extra,CopepodA984,crustacean,env,Copepod_X81
+X82,98,nauplia copepod,cop,nauplia copepodA986,animal,extra,nauplia copepodA986,crustacean,env,nauplia copepod_X82
+X83,99,nauplia copepod,cop,nauplia copepodA986,animal,extra,nauplia copepodA986,crustacean,env,nauplia copepod_X83
+X84,100,Euchlanis,mono,EuchlanisA991,animal,rot,EuchlanisA991,rotifer,env,Euchlanis_X84
+X85,101,Euchlanis,mono,EuchlanisA991,animal,rot,EuchlanisA991,rotifer,env,Euchlanis_X85
+X87,103,Simo,clad,Simocephalus A994,animal,extra,Simocephalus A994,crustacean,env,Simocephalus _X87
+X89,105,Copepod,cop,CopepodA984,animal,extra,CopepodA984,crustacean,env,Copepod_X89
+X90,107,Rotaria rotatoria,bdell,Rotaria rotatoriaA994,animal,rot,Rotaria rotatoriaA994,rotifer,env,Rotaria rotatoria_X90
+X91,108,Rotaria rotatoria,bdell,Rotaria rotatoriaA994,animal,rot,Rotaria rotatoriaA994,rotifer,env,Rotaria rotatoria_X91
+X93,110,Brachinonus quadridentatus,mono,Brachinonus quadridentatusA988,animal,rot,Brachinonus quadridentatusA988,rotifer,env,Brachinonus quadridentatus_X93
+X94,111,Brachinonus quadridentatus,mono,Brachinonus quadridentatusA988,animal,rot,Brachinonus quadridentatusA988,rotifer,env,Brachinonus quadridentatus_X94
+X96,113,SimoV,clad,SimocephalusA992,animal,extra,Simocephalus A992,crustacean,env,Simocephalus _X96
+X99,116,Lecane elsa,mono,Lecane elsaA984,animal,rot,Lecane elsaA984,rotifer,env,Lecane elsa_X99
+D3,117,Daphnia obtus,clad,Daphnia obtusIRSA,animal,extra,Daphnia obtusIRSA,crustacean,env,Daphnia obtus_D3
+D5,118,Daphnia obtus,clad,Daphnia obtusIRSA,animal,extra,Daphnia obtusIRSA,crustacean,env,Daphnia obtus_D5
+D6,119,Daphnia obtus,clad,Daphnia obtusIRSA,animal,extra,Daphnia obtusIRSA,crustacean,env,Daphnia obtus_D6
+ERS2473696,120,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473696
+ERS2473697,121,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473697
+ERS2473698,122,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473698
+ERS2473704,123,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473704
+ERS2473705,124,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473705
+ERS2473706,125,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473706
+ERS2473722,126,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473722
+ERS2473723,127,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473723
+ERS2473724,128,Daphnia magna,clad,Daphnia magnaebert,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_ERS2473724
+GCop,130,Eudiaptomus_padanus,cop,CopepodLM,animal,extra,CopepodLM,crustacean,env,Copepod_GCop
+GDaph,131,Daphnia galeata,clad,Daphnia galeataLM,animal,extra,DaphniaLM,crustacean,env,Daphnia galeata_GDaph
+PCop,133,Eudiaptomus_padanus,cop,CopepodLM,animal,extra,CopepodLM,crustacean,env,Copepod_PCop
+PDaph,134,Daphnia galeata,clad,Daphnia galeataLM,animal,extra,DaphniaLM,crustacean,env,Daphnia galeata_PDaph
+SRR4115579,135,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRR4115579
+SRR4115602,136,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRR4115602
+SRS2578392,137,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578392
+SRS2578393,138,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578393
+SRS2578394,139,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578394
+SRS2578396,140,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578396
+SRS2578398,141,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578398
+SRS2578399,142,Daphnia magna,clad,Daphnia magnadecaeste,animal,extra,Daphnia magnadecaeste,crustacean,cult,Daphnia magna_SRS2578399
+WCop,144,Eudiaptomus_padanus,cop,CopepodLM,animal,extra,CopepodLM,crustacean,env,Copepod_WCop
+WDaph,145,Daphnia galeata,clad,Daphnia galeataLM,animal,extra,DaphniaLM,crustacean,env,Daphnia galeata_WDaph
+postFAC1a,146,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_postFAC1a
+postFAC1c,148,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaebert,crustacean,cult,Daphnia magna_postFAC1c
+postFAC2a,149,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFAC2a
+postFAC2b,150,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFAC2b
+postFAC2c,151,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFAC2c
+postFBC1a,152,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFBC1a
+postFBC1c,154,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFBC1c
+postFCC1a,155,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFCC1a
+postFCC1c,157,Daphnia magna,clad,Daphnia magnaFinnland,animal,extra,Daphnia magnaFinnland,crustacean,cult,Daphnia magna_postFCC1c
